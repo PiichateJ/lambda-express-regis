@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "arn:aws:iam::842716024212:role/DynamoFull",
+    "name": "lambda-express-regis",
+    "region": "ap-southeast-1"
+  }
+}
